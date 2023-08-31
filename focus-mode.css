@@ -1,0 +1,18 @@
+html .ytd-rich-grid-renderer {
+    display: none !important;
+}
+
+html #secondary {
+    display: none !important;
+}
+
+html #player {
+    margin-bottom: 200px !important;
+    margin-top: 20px !important;
+}
+
+
+html #guide-inner-content {
+    display: none !important;
+}
+
